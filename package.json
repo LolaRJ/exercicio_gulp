@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "gulp": "gulp",
+    "build": "gulp",
+    "compress-js": "gulp comprimeJavaScript",
+    "compress-images": "gulp comprimeImagens",
+    "compile-sass": "gulp compilaSass"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.77.8"
+  }
+}
